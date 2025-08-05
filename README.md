@@ -27,3 +27,11 @@ For those interested in the process, the method is an offline script that works 
 2.  **Step 2: It corrects and standardises the information.** The extracted data is then processed through a simple, rule-based cleaning process. This step uses a formal "house style" guide to correct common errors, such as making all dates follow the same format or fixing recurring misspellings, ensuring all the information is consistent.
 
 3.  **Step 3: It carefully writes the final, clean record.** The pipeline's final stage uses a supervised software tool to act as a "master clerk." It takes the clean, validated data from the previous steps and is given a single, clear task: write a new, perfectly structured record into the central database. This final pass ensures the output is not just clean, but also consistent and easy for the team to use.
+
+---
+
+*Go back to the [**Main Portfolio Page**](https://github.com/seancasey-portfolio) or explore another case study:*
+*   *[Turning Messy Spreadsheets into a Usable Database](https://github.com/seancasey-portfolio/Case-Study-Cleaning-Legacy-Data)*
+*   *[Automating Internal Reports & Documentation](https://github.com/seancasey-portfolio/Case-Study-Automating-Internal-Documentation)*
+*   *[Building Reliable & Well-Behaved AI Tools](https://github.com/seancasey-portfolio/Case-Study-Building-Reliable-AI-Tools)*
+*   *[Transforming Raw Data into Compelling Stories](https://github.com/seancasey-portfolio/Case-Study-Data-To-Impact-Stories)*
